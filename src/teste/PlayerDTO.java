@@ -1,3 +1,4 @@
+package teste;
 
 
 import java.io.Serializable;

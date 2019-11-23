@@ -6,6 +6,8 @@ import java.io.OutputStream;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+import teste.PlayerDTO;
+
 public class Serializer {
 
 	public static void main(String args[]) {
