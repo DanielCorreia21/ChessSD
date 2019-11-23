@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-import teste.PlayerDTO;
+import serialization.PlayerDTO;
 
 public class DummyTest {
     public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException {
