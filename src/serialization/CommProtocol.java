@@ -14,4 +14,22 @@ public class CommProtocol implements Serializable{
 		this.function = function;
 	}
 
+	
+	public void initialPos(int[] initialPos) {
+		this.initialPos = initialPos;
+	}
+	
+	public void table(int[][] table) {
+		this.table = table;
+	}
+	
+	public void value(boolean value) {
+		this.value = value;
+	}
+	
+	public void availablePos(int[][] availablePos) {
+		this.availablePos = availablePos;
+	}
+
+	
 }
