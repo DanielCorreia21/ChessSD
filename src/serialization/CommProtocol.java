@@ -31,5 +31,8 @@ public class CommProtocol implements Serializable{
 		this.availablePos = availablePos;
 	}
 
+	public void initializeCommChannel() {
+		
+	}
 	
 }
